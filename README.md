@@ -74,8 +74,4 @@ The analysis report includes:
 
 - Professor Rainer von Sachs - Academic Supervisor
 - Aigerim Zhuman - Teaching Assistant
-- LSTAT2170 - Time Series Analysis Course at [Your University Name]
-
-## Contact
-
-For any questions or further information, please contact Victor Dujardin at [victor.dujardin@student.uclouvain.be](mailto:victor.dujardin@uclouvain.be).
+- LSTAT2170 - Time Series Analysis Course at UCLouvain
